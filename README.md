@@ -1,5 +1,7 @@
 # Assignment_RahulChaudhary
 
+shortr video of game play link :   https://youtu.be/OeLqI-iODlU
+
 a simple 3d snake game
 every time sname eats food it becomes longer
 there are currently two type of food: red and blue
